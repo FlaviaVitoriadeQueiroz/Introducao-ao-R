@@ -1,0 +1,16 @@
+Aplicativo/site Posit Cloud
+ Os pacotes necessários podem ser baixados no icone amarelo no início do projeto
+ Os pacotes não ficam sempre ativos, então é necessário ativa-los com Ctrl + Entrer
+
+Operações Básicas com R
+x = 5
+x
+
+y = 7
+y
+
+z = y + x
+z
+
+multi = x * y
+multi
